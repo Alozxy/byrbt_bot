@@ -8,7 +8,7 @@
 """
 
 from config import ReadConfig
-from transmission_rpc import Client
+from utils.qb import Client
 import time
 
 
